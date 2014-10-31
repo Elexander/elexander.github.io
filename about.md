@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Descripción sobre mi persona: Hombre lleno de ambiguedades y contradicciones.
 
-### More Information
+### Más información 
+´La vida es absurdo. Corre´
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Contáctame
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[elainalexander@live.com](mailto:email@domain.com)
