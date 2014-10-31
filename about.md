@@ -7,7 +7,7 @@ permalink: /about/
 Descripción sobre mi persona: Hombre lleno de ambiguedades y contradicciones.
 
 ### Más información 
-´La vida es absurdo. Corre´
+'La vida es absurdo. Corre'
 
 ### Contáctame
 
